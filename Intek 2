@@ -1,3 +1,4 @@
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
 #EXTM3U
 #EXTINF:-1 tvg-id="Cinemax by HBO" tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="HBO And FOX",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
