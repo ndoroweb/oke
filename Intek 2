@@ -1,7 +1,0 @@
-$ ssh-keygen -t ed25519 -C "your_email@example.com"
-#EXTM3U
-#EXTINF:-1 tvg-id="Cinemax by HBO" tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="HBO And FOX",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTVLCOPT:http-user-agent="balaiptv"
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
