@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20220829">
-<channel id="Liveevent4"><display-name>LIVE EVENT 4</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU"/><url>https://mncvision.id</url></channel>
+<channel id="Liveevent4"><display-name>LIVE EVENT 1</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU"/><url>https://bitbucket.org/masterchintekvi/itkvi/raw/b43442835232fa8b31627b6e7492cfdd763c4c23/NODRMCHMASTER</url></channel>
 <programme start="20221222183000 +0000" stop="20221222210000 +0000" channel="Liveevent4"><title lang="en">AFF Mitsubishi Electric Cup &apos;22</title></programme>
+<programme start="20221222210000 +0000" stop="20221222213000 +0000" channel="Liveevent4"><title lang="en">The Ultimate Goals</title></programme>
 </tv>
